@@ -1,7 +1,7 @@
 # Clinic Appointment Website
 
 This project is a full-stack appointment booking system for clinics, built with React.js (frontend), Node.js/Express (backend), and MongoDB (database).
-Authors: Mr.Savio David<br>Mr.Sasank Kolluru
+<br><br>Authors: <br>Mr.Savio David<br>Mr.Sasank Kolluru
 
 ## Structure
 - `frontend/` — React.js app (with Tailwind CSS)
